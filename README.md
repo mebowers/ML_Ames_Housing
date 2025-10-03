@@ -17,6 +17,6 @@ This project was my first foray into machine learning.
 
 ## Author
 
-blog post:
+Blog post:
 
 LinkedIn: 
