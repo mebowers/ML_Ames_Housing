@@ -15,15 +15,8 @@ After tuning and refining each model, I evaluated them using cross-validation an
 
 This project was my first foray into machine learning. 
 
-## Files
-These are some of the notebooks I worked with:
-- **Ames_EDA_final.ipynb** - Initial EDA
-- **Ames_Data_Cleaning_final.ipynb** - Notebook used to create .pkl file I used in my modeling
-- **Ames_Linear_Modeling_final.ipynb** - More EDA. 
-- **Ames_Data_Transformations_final.ipynb** - Explores how data transformations impact target and features. Includes some feature selection exploration (sfs).
-- **Ames_Base_Model_final.ipynb** - Evaluates base models with and without data transformations. 
-
-
 ## Author
-blog post: 
+
+blog post:
+
 LinkedIn: 
