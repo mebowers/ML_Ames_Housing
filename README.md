@@ -19,6 +19,6 @@ This project was my first foray into machine learning.
 
 ## Author
 
-Blog post:
+[Blog post](https://nycdatascience.com/blog/student-works/machine-learning-for-real-estate-business-applications/)
 
 LinkedIn: 
